@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.csprojAssemblyReference.cache
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.Form1.resources
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.Properties.Resources.resources
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.csproj.GenerateResource.cache
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\winformCrawling.exe.config
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\winformCrawling.exe
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\winformCrawling.pdb
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\WebDriver.dll
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\WebDriver.Support.dll
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\WebDriver.xml
+C:\Users\user\source\repos\winformCrawling\winformCrawling\bin\Debug\WebDriver.Support.xml
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.csproj.CopyComplete
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.exe
+C:\Users\user\source\repos\winformCrawling\winformCrawling\obj\Debug\winformCrawling.pdb
